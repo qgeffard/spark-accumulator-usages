@@ -1,0 +1,2 @@
+dummy_data/part-00000-c72299a2-e389-4745-a056-9329757f0e4e-c000.csv filter=lfs diff=lfs merge=lfs -text
+sqlite/database.db filter=lfs diff=lfs merge=lfs -text
